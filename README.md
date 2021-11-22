@@ -1,6 +1,6 @@
 # thunder-seis
 [![DOI](https://zenodo.org/badge/391969148.svg)](https://zenodo.org/badge/latestdoi/391969148)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IMGW-univie/thunder-seis/blob/main/ThunderSeis.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IMGW-univie/thunder-seis/blob/main/ThunderSeis.ipynb)
 
 Code to accompany ThunderSeis paper
 
